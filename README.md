@@ -43,7 +43,6 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhaskar-scientist&theme=default)](https://github.com/Bhaskar-scientist)
 
 
-
 ### 🤝 Connect with Me – Let's Grow Together!
 
 I'm always open to learning, networking, and collaborating with like-minded developers and tech enthusiasts. Feel free to reach out on any of the platforms below! 👇
