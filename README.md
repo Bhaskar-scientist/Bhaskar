@@ -41,7 +41,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 <!-- GitHub Streak -->
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=MhPriya&theme=default)](https://git.io/streak-stats)-->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bhaskar-scientist&theme=default)](https://github.com/Bhaskar-scientist)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhaskar-scientist&theme=default)](https://github.com/Bhaskar-scientist)
 
 
 ### 🤝 Connect with Me – Let's Grow Together!
