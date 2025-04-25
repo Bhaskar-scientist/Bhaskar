@@ -10,7 +10,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 - 🔭 I’m currently working on my SKILLS
 - 👯 I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me: https://www.linkedin.com/in/mhpriya1999/
+- 📫 How to reach me: bhaskarcr02@gmail.com
 
 ---
 ### 💻 Tech Stack & Skills
