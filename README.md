@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Bhaskar Reddy
+# 👋 Hi, I'm Bhaskar Reddy.
 
 *"If you can dream it, you can do it."*
 
