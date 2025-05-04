@@ -6,6 +6,11 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: bhaskarcr02@gmail.com
 
+
+### 👀 Profile Views
+ ![Profile views](https://komarev.com/ghpvc/?username=Bhaskar-scientist&color=blue)
+
+
 ---
 ## 🛠️ Skills
 
