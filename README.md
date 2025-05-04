@@ -17,7 +17,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 ### 👨‍💻 Programming & Frameworks
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![DSA](https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-FF6F00?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-555555?style=for-the-badge&logo=codeforces&logoColor=white)  
 ![Trello](https://img.shields.io/badge/TRELLO-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -25,7 +25,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 ![pytest](https://img.shields.io/badge/PYTEST-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-3B3B3B?style=for-the-badge&logo=html5&logoColor=E34F26) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -34,15 +34,16 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧩 System Design & Architecture  
-![Low Level Design](https://img.shields.io/badge/LOW%20LEVEL%20DESIGN-6A1B9A?style=for-the-badge&logo=codefactor&logoColor=white)
+![Low Level Design](https://img.shields.io/badge/Low%20Level%20Design-555555?style=for-the-badge&logo=abstract&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF5722?style=for-the-badge&logo=api&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 💼 Soft Skills  
-![Team Collaboration](https://img.shields.io/badge/TEAM%20COLLABORATION-4CAF50?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/PROBLEM%20SOLVING-2196F3?style=for-the-badge)
-![Adaptability](https://img.shields.io/badge/ADAPTABILITY-9C27B0?style=for-the-badge)
-![Time Management](https://img.shields.io/badge/TIME%20MANAGEMENT-FF9800?style=for-the-badge)
+![Team Collaboration](https://img.shields.io/badge/TEAM%20COLLABORATION-4F8372?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/PROBLEM%20SOLVING-3E6C8F?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/ADAPTABILITY-6B5B95?style=for-the-badge)
+![Time Management](https://img.shields.io/badge/TIME%20MANAGEMENT-A67B5B?style=for-the-badge)
+
 
 
 ---
